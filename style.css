@@ -1,0 +1,18 @@
+.heading {
+    font-size: 25px !important;
+    font-style: italic;
+    width: 100%;
+    padding: 0px;
+    color: darkviolet;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+}
+
+canvas {
+    border: 7px solid white;
+    border-radius: 30px !important;
+}
